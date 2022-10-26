@@ -3,6 +3,10 @@
     margin: auto;
     font-family:Arial, Helvetica, sans-serif
 }
+.Header-part1 {
+    position: fixed;
+    width: 100%;
+}
 .Header-part {
     background-color: rgb(75, 74, 74);
 }
@@ -93,4 +97,19 @@
 }
 .parted-all-img {
     margin-bottom: 10px
+}
+
+.s-6-p1 {
+    color: black;
+}
+.P71 {
+    background-color: #F5F5F7;
+    width: 100%;
+    padding: 31px;
+    
+}
+.P71 p {
+
+    color: #424245;
+    margin-left: 40%;
 }
