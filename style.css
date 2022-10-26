@@ -1,0 +1,96 @@
+* {
+    box-sizing: border-box;
+    margin: auto;
+    font-family:Arial, Helvetica, sans-serif
+}
+.Header-part {
+    background-color: rgb(75, 74, 74);
+}
+.header-part-width{
+    width: 1024px;
+    margin: auto;
+    display: flex;
+}
+.Header-part p {
+    color: white;
+}
+/* ---------------Section-1---------------- */
+.section-part1 {
+    background-color: #FBFBFD;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.s-1-p1 {
+    font-size: 56px;
+    line-height: 60px;
+    margin-top: 51px;
+}
+.s-1-p2 {
+    font-size: 28px;
+    line-height: 31px;
+    justify-content: center;
+}
+.section-part1-para2 {
+    display: flex;
+    width: 12vw;
+}
+.section-part1-para2 p {
+    font-size: 21px;
+    line-height: 29px;
+    color: #0066CC;
+    margin-top: 14px;
+}
+.section-part1 img {
+    margin-top: 25px;
+    margin-bottom: 12px;
+}
+/* ---------------Section-2---------------- */
+.section-part2 {
+    position: relative;
+    background-color: black;
+}
+.section-part2-para {
+    color: white;
+}
+/* ---------------Section-3---------------- */
+.section-part3-img {
+    margin-top: 64px;
+    text-align: center;
+}
+/* ---------------Section-4---------------- */
+.two-parted-section1 {
+    display: flex;
+}
+.parted-section1 {
+    height: auto;
+    width: 49vw;
+    margin: 10px 10px;
+    background-color: black;
+    color: white;
+    margin: auto;
+    text-align: center;
+}
+.two-parted-section1:first-child {
+    margin-top: 59px;
+}
+.parted-section1 img {
+    margin-top: 51px;
+}
+.parted-section2 img {
+    height: 404px;
+    width: 533px;
+}
+.s-4-p5 {
+    height: 52px;
+}
+/* ---------------Section-5---------------- */
+.parted-section2-1 {
+    background-color: rgb(249,249,252);
+}
+.s-4-p1 {
+    color: black;
+}
+.parted-all-img {
+    margin-bottom: 10px
+}
